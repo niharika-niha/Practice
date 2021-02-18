@@ -1,8 +1,8 @@
-export default function Login(){
-    return(
+export default function Login() {
+    return (
         <div>
-            
-        <h2> is login </h2>
+
+            <h2> This is login page </h2>
         </div>
     )
 }
